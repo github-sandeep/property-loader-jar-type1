@@ -1,8 +1,8 @@
 # Creating jar with property file loader
 
-This repository help to create jar which picks properties from class path. This has profile for local and prod profile where properties has been kept in config.properties. \
+This repository help to create jar which picks properties from class path. This has profile for local and prod profile where properties has been kept in config.properties.\
 
-This jar picks property file from same class path. No need to pass resource file path while running the jar. \
+This jar picks property file from same class path. No need to pass resource file path while running the jar.\
 
 How to use?\
 1- Clone this repository\
