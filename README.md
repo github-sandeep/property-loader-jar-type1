@@ -1,0 +1,1 @@
+# property-loader-jar-type1
