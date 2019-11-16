@@ -5,7 +5,7 @@ This repository help to create jar which picks properties from class path. This 
 This jar picks property file from same class path. No need to pass resource file path while running the jar.\
 
 How to use?\
-1- Clone this repository git clone git@github.com:github-sandeep/property-loader-jar-type1.git\
+1- Clone this repository
 2- Run "mvn clean install" or "mvn clean install -Pprod"\
 3- Run the jar file "java -jar /target/property-type1-1.0-SNAPSHOT.jar"\
 
