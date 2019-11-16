@@ -1,4 +1,4 @@
-# creating jar with property-loader
+# Creating jar with property file loader
 
 This repository help to create jar which picks properties from class path. This has profile for local and prod profile where properties has been kept in config.properties.\
 
